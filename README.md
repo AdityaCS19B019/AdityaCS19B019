@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a  student at IIT Tirupati with a passion for computer science and looking forward to further my experience in this area
+I am Aditya. I am a final year CSE student at IIT Tirupati.I am very passionate for Computer Science and looking forward to further my experience in this field.
 
 
 ## 🌐 Socials:
