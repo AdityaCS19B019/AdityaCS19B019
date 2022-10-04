@@ -10,7 +10,7 @@ I am a  student at IIT Tirupati with a passion for computer science and looking 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaCS19B019&theme=dark&hide_border=false)<br/>
-username=AdityaCS19B019&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!---username=AdityaCS19B019&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdityaCS19B019&theme=radical&no-frame=false&no-bg=true&margin-w=4)
