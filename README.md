@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aditya. I am a final year CSE student at IIT Tirupati.I am very passionate for Computer Science and looking forward to further my experience in this field.
+I am Aditya. I am a computer Science Graduate from IIT Tirupati, currently working as a Software Engineer in HY.
 
 
 ## 🌐 Socials:
